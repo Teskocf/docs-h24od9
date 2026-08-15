@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-jy72gu.idncuan.xyz/sitemap.xml
